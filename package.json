@@ -1,0 +1,22 @@
+{
+  "name": "ratedetect",
+  "version": "1.0.1",
+  "description": "An npm package to limit malicious requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suits-sandals/ratelimiter.git"
+  },
+  "author": "Suits & Sandals",
+  "license": "(MIT)",
+  "bugs": {
+    "url": "https://github.com/suits-sandals/ratelimiter/issues"
+  },
+  "homepage": "https://github.com/suits-sandals/ratelimiter#readme",
+  "dependencies": {
+    "redis-client": "^0.3.5"
+  }
+}
