@@ -1,6 +1,6 @@
 {
   "name": "ratedetect",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An npm package to limit malicious requests",
   "main": "index.js",
   "scripts": {

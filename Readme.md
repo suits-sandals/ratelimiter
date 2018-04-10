@@ -1,9 +1,9 @@
-Ratedetect is a lightweight middleware that detects and prevents malicious requests to your web app. To use ratedetect import rate detect in your file. Then on whichever route you'd like to monitor simply Ratedetect.detect to your route(s) middleware. Ratedetect takes in 5 arguments: req, res, next, params and a custom callback. Params are an object
+
 
 
 # Rate Detect
 
-Rate Detect is a lightweight middleware that detects and prevents malicious requests to your web app.
+Rate Detect is a lightweight middleware that prevents bruteforce requests to your web app.
 
 
 ### Prerequisites
